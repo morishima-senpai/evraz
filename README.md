@@ -53,7 +53,7 @@ graph TD
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/yourusername/evraz-code-review-bot.git
+git clone https://github.com/morishima-senpai/evraz.git
 cd evraz-code-review-bot
 ```
 
